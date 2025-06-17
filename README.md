@@ -32,7 +32,7 @@ A simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. Play 
    git clone https://github.com/ybhavesh-0915/Tic-Tac-Toe.git
 ````
 2. Open the `index.html` file in your browser.
-3. Or visit the [live demo](https://ybhavesh-0915.github.io/Tic-Tac-Toe/).
+3. Or visit the [live demo](https://ybhavesh-0915.github.io/Tic-Tac-Toe-JS/).
 
 ---
 
